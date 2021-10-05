@@ -1,0 +1,31 @@
+C:\Users\soqohm\Desktop\yield-return-smooth.csproj\bin\Debug\yield.exe.config
+C:\Users\soqohm\Desktop\yield-return-smooth.csproj\bin\Debug\yield.exe
+C:\Users\soqohm\Desktop\yield-return-smooth.csproj\bin\Debug\yield.pdb
+C:\Users\soqohm\Desktop\yield-return-smooth.csproj\bin\Debug\nunit.framework.dll
+C:\Users\soqohm\Desktop\yield-return-smooth.csproj\bin\Debug\ZedGraph.dll
+C:\Users\soqohm\Desktop\yield-return-smooth.csproj\obj\Debug\yield-return-smooth.csprojAssemblyReference.cache
+C:\Users\soqohm\Desktop\yield-return-smooth.csproj\obj\Debug\yield-return-smooth.csproj.CopyComplete
+C:\Users\soqohm\Desktop\yield-return-smooth.csproj\obj\Debug\yield.exe
+C:\Users\soqohm\Desktop\yield-return-smooth.csproj\obj\Debug\yield.pdb
+C:\Users\soqohm\Desktop\yield-return-smooth.csproj\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\soqohm\Desktop\yield-return-smooth.csproj\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\soqohm\Desktop\yield-return-smooth.csproj\bin\Debug\nunit.engine.dll
+C:\Users\soqohm\Desktop\yield-return-smooth.csproj\bin\Debug\nunit.engine.api.dll
+C:\Users\soqohm\Desktop\yield-return-smooth.csproj\bin\Debug\nunit.framework.pdb
+C:\Users\soqohm\Desktop\yield-return-smooth.csproj\bin\Debug\nunit.framework.xml
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\yield-return-smooth.csproj\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\yield-return-smooth.csproj\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\yield-return-smooth.csproj\bin\Debug\nunit.engine.dll
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\yield-return-smooth.csproj\bin\Debug\nunit.engine.api.dll
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\yield-return-smooth.csproj\bin\Debug\yield.exe.config
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\yield-return-smooth.csproj\bin\Debug\yield.exe
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\yield-return-smooth.csproj\bin\Debug\yield.pdb
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\yield-return-smooth.csproj\bin\Debug\nunit.framework.dll
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\yield-return-smooth.csproj\bin\Debug\ZedGraph.dll
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\yield-return-smooth.csproj\bin\Debug\nunit.framework.pdb
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\yield-return-smooth.csproj\bin\Debug\nunit.framework.xml
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\yield-return-smooth.csproj\obj\Debug\yield-return-smooth.csproj.AssemblyReference.cache
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\yield-return-smooth.csproj\obj\Debug\yield-return-smooth.csproj.CoreCompileInputs.cache
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\yield-return-smooth.csproj\obj\Debug\yield-return-smooth.csproj.CopyComplete
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\yield-return-smooth.csproj\obj\Debug\yield.exe
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\yield-return-smooth.csproj\obj\Debug\yield.pdb

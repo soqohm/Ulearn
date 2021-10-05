@@ -1,0 +1,31 @@
+C:\Users\soqohm\Desktop\3 _ листы и индексация\hashes-ghosts.csproj\bin\Debug\ghost.exe.config
+C:\Users\soqohm\Desktop\3 _ листы и индексация\hashes-ghosts.csproj\bin\Debug\ghost.exe
+C:\Users\soqohm\Desktop\3 _ листы и индексация\hashes-ghosts.csproj\bin\Debug\ghost.pdb
+C:\Users\soqohm\Desktop\3 _ листы и индексация\hashes-ghosts.csproj\bin\Debug\nunit.framework.dll
+C:\Users\soqohm\Desktop\3 _ листы и индексация\hashes-ghosts.csproj\bin\Debug\nunitlite.dll
+C:\Users\soqohm\Desktop\3 _ листы и индексация\hashes-ghosts.csproj\obj\Debug\hashes-ghosts.csprojAssemblyReference.cache
+C:\Users\soqohm\Desktop\3 _ листы и индексация\hashes-ghosts.csproj\obj\Debug\hashes-ghosts.csproj.CopyComplete
+C:\Users\soqohm\Desktop\3 _ листы и индексация\hashes-ghosts.csproj\obj\Debug\ghost.exe
+C:\Users\soqohm\Desktop\3 _ листы и индексация\hashes-ghosts.csproj\obj\Debug\ghost.pdb
+C:\Users\soqohm\Desktop\3 _ листы и индексация\hashes-ghosts.csproj\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\soqohm\Desktop\3 _ листы и индексация\hashes-ghosts.csproj\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\soqohm\Desktop\3 _ листы и индексация\hashes-ghosts.csproj\bin\Debug\nunit.engine.dll
+C:\Users\soqohm\Desktop\3 _ листы и индексация\hashes-ghosts.csproj\bin\Debug\nunit.engine.api.dll
+C:\Users\soqohm\Desktop\3 _ листы и индексация\hashes-ghosts.csproj\bin\Debug\nunit.framework.pdb
+C:\Users\soqohm\Desktop\3 _ листы и индексация\hashes-ghosts.csproj\bin\Debug\nunit.framework.xml
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\hashes-ghosts.csproj\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\hashes-ghosts.csproj\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\hashes-ghosts.csproj\bin\Debug\nunit.engine.dll
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\hashes-ghosts.csproj\bin\Debug\nunit.engine.api.dll
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\hashes-ghosts.csproj\bin\Debug\ghost.exe.config
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\hashes-ghosts.csproj\bin\Debug\ghost.exe
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\hashes-ghosts.csproj\bin\Debug\ghost.pdb
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\hashes-ghosts.csproj\bin\Debug\nunit.framework.dll
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\hashes-ghosts.csproj\bin\Debug\nunitlite.dll
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\hashes-ghosts.csproj\bin\Debug\nunit.framework.pdb
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\hashes-ghosts.csproj\bin\Debug\nunit.framework.xml
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\hashes-ghosts.csproj\obj\Debug\hashes-ghosts.csproj.AssemblyReference.cache
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\hashes-ghosts.csproj\obj\Debug\hashes-ghosts.csproj.CoreCompileInputs.cache
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\hashes-ghosts.csproj\obj\Debug\hashes-ghosts.csproj.CopyComplete
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\hashes-ghosts.csproj\obj\Debug\ghost.exe
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\hashes-ghosts.csproj\obj\Debug\ghost.pdb

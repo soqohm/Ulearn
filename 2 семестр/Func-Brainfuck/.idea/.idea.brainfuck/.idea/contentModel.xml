@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2017.3/system/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_brainfuck.-530329576.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="Brainfuck.cs" t="Include" />
+      <e p="BrainfuckBasicCommands.Solution.cs" t="Include" />
+      <e p="BrainfuckBasicCommands.cs" t="Include" />
+      <e p="BrainfuckBasicCommandsTests.cs" t="Include" />
+      <e p="BrainfuckLoopCommands.Solution.cs" t="Include" />
+      <e p="BrainfuckLoopCommands.cs" t="Include" />
+      <e p="BrainfuckLoopCommandsTests.cs" t="Include" />
+      <e p="IVirtualMachine.cs" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="VirtualMachine.Solution.cs" t="Include" />
+      <e p="VirtualMachine.cs" t="Include" />
+      <e p="VirtualMachineTests.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="brainfuck.sln" t="IncludeFlat" />
+      <e p="func-brainfuck.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\3 сем\Inheritance.MapObjects.csproj\bin\Debug\Inheritance.MapObjects.exe.config
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\3 сем\Inheritance.MapObjects.csproj\bin\Debug\Inheritance.MapObjects.exe
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\3 сем\Inheritance.MapObjects.csproj\bin\Debug\Inheritance.MapObjects.pdb
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\3 сем\Inheritance.MapObjects.csproj\bin\Debug\nunit.framework.dll
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\3 сем\Inheritance.MapObjects.csproj\bin\Debug\nunitlite.dll
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\3 сем\Inheritance.MapObjects.csproj\obj\Debug\Inheritance.MapObjects.csproj.AssemblyReference.cache
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\3 сем\Inheritance.MapObjects.csproj\obj\Debug\Inheritance.MapObjects.csproj.CoreCompileInputs.cache
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\3 сем\Inheritance.MapObjects.csproj\obj\Debug\Inheritance.MapObjects.csproj.CopyComplete
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\3 сем\Inheritance.MapObjects.csproj\obj\Debug\Inheritance.MapObjects.exe
+C:\Users\soqohm\Desktop\для заливки на github\ulearn\3 сем\Inheritance.MapObjects.csproj\obj\Debug\Inheritance.MapObjects.pdb
